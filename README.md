@@ -1,2 +1,5 @@
-# Arduino_examples
-Small Arduino examples
+# Arduino examples
+
+Small Arduino examples stored to Github.
+
+
